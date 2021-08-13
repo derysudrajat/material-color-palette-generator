@@ -12,16 +12,16 @@ Showcase app to generate color palette using Android Support Library Palette
     <tbody>
         <tr>
             <td>
-            <img src="https://i.ibb.co/qymZbMs/photo-2021-08-14-02-17-51.jpg" width =50%/>
+            <img src="https://i.ibb.co/qymZbMs/photo-2021-08-14-02-17-51.jpg" width =100%/>
             </td>
             <td>
-            <img src="https://i.ibb.co/KxwWn2J/photo-2021-08-14-02-17-52.jpg" width =50%/>
+            <img src="https://i.ibb.co/KxwWn2J/photo-2021-08-14-02-17-52.jpg" width =100%/>
             </td>
             <td>
-            <img src="https://i.ibb.co/FXpYP0L/photo-2021-08-14-02-17-52-3.jpg" width =50%/>
+            <img src="https://i.ibb.co/FXpYP0L/photo-2021-08-14-02-17-52-3.jpg" width =100%/>
             </td>
             <td>
-            <img src="https://i.ibb.co/D4ps8rH/photo-2021-08-14-02-17-52-2.jpg" width =50%/>
+            <img src="https://i.ibb.co/D4ps8rH/photo-2021-08-14-02-17-52-2.jpg" width =100%/>
             </td>
         </tr>
     </tbody>
