@@ -87,7 +87,7 @@ class MainActivity : AppCompatActivity() {
                 val vibrantColor = Helpers.getHexBackgroundColor(it[2], this@MainActivity)
                 val vibrantText = Helpers.getHexTextColor(it[2], this@MainActivity)
 
-                val mainTitle = getString(R.string.title_camera)
+                val mainTitle = getString(R.string.app_name)
 
                 supportActionBar?.apply {
                     setBackgroundDrawable(ColorDrawable(Color.parseColor(vibrantColor)))
